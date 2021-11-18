@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sindat&color=brightgreen)
-# 👋 Hi, I’m Dave Vondrovic!
-## 👀 I’m interested in Marketing and Sales automation software
-## 🌱 I’m currently learning NodeJS, React, Express
+# 👋 Hi, I’m Dave!
+## 👀 My hobby is turning data into information
+## 🌱 My favorite tools? Tableau, Jupyter, SQL Server, and Excel
 ## 💞️ I’m looking to collaborate on apps that support creation of better products
 
 <!---
